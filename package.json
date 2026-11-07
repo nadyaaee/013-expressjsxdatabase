@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "node --watch src/index.js"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nadyaaee/013-expressjsxdatabase.git"
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nadyaaee/013-expressjsxdatabase#readme",
   "dependencies": {
+    "@prisma/client": "^6.19.3",
     "express": "^5.3.0"
   }
 }
