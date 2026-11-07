@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nadyaaee/013-expressjsxdatabase/issues"
   },
-  "homepage": "https://github.com/nadyaaee/013-expressjsxdatabase#readme"
+  "homepage": "https://github.com/nadyaaee/013-expressjsxdatabase#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
